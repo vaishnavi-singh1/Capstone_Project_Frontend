@@ -1,0 +1,44 @@
+{
+  "inwards": [
+    {
+      "id": "abcd",
+      "godownName": "Gurgaon",
+      "itemName": "Television",
+      "category": "Electronics",
+      "quantity": 50,
+      "addedBy": "admin"
+    },
+    {
+      "godownName": "Pune",
+      "itemName": "iquq",
+      "category": "Gear",
+      "quantity": "10",
+      "addedBy": "admin",
+      "id": "LImy6kJ"
+    },
+    {
+      "godownName": "Bengaluru",
+      "itemName": "Smartphone",
+      "category": "Electronics",
+      "quantity": "10",
+      "addedBy": "admin",
+      "id": "uksjYbd"
+    },
+    {
+      "godownName": "Hyderabad",
+      "itemName": "Smartphone",
+      "category": "",
+      "quantity": "10",
+      "addedBy": "admin",
+      "id": "J55j9mB"
+    },
+    {
+      "godownName": "Gurgaon 109",
+      "itemName": "Smartphone 2",
+      "category": "",
+      "quantity": "60",
+      "addedBy": "admin",
+      "id": "8xB67w2"
+    }
+  ]
+}

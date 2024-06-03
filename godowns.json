@@ -1,0 +1,95 @@
+{
+  "godowns": [
+    {
+      "id": "2922c286-16cd-4d43-ab98-c79f698aeab0",
+      "godownName": "Gurgaon 248",
+      "godownAddress": "248 Udyog Vihar",
+      "godownCity": "Gurgaon",
+      "godownCountry": "India",
+      "godownEmployee": {
+        "employeeName": "Santhosh V",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "employeeEmail": "santhosh@gmail.com"
+      }
+    },
+    {
+      "id": "90ac3319-70d1-4a51-b91d-ba6c2464408c",
+      "godownName": "Chennai",
+      "godownAddress": "MGR Main Rd, Kandhanchavadi, Perungudi",
+      "godownCity": "Chennai",
+      "godownCountry": "India",
+      "godownEmployee": {
+        "employeeName": "Vaishnavi Singh",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "employeeEmail": "vaishnavi@gmail.com"
+      }
+    },
+    {
+      "id": "bfc9bea7-66f1-44e9-879b-4d363a888eb4",
+      "godownName": "Hyderabad",
+      "godownAddress": "Serilingampally, Mandal, Hyderabad",
+      "godownCity": "Hyderabad",
+      "godownCountry": "India",
+      "godownEmployee": {
+        "employeeName": "Arumugan N",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "employeeEmail": "arumugan@gmail.com"
+      }
+    },
+    {
+      "id": "5bf7bd6c-2b16-4129-bddc-9d37ff8539e9",
+      "godownName": "Gurgaon 109",
+      "godownAddress": "109 Udyog Vihar",
+      "godownCity": "Gurgaon",
+      "godownCountry": "India",
+      "godownEmployee": {
+        "employeeName": "Sudarshan B",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "yeemploeEmail": "sudarshan@gmail.com"
+      }
+    },
+    {
+      "id": "89898957-04ba-4bd0-9f5c-a7aea7447963",
+      "godownName": "Santa Clara",
+      "godownAddress": "2880 Lakeside",
+      "godownCity": "Santa Clara",
+      "godownCountry": "USA",
+      "godownEmployee": {
+        "employeeName": "Akankshu Kumar",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "employeeEmail": "akankshu@gmail.com"
+      }
+    },
+    {
+      "id": "ade0a47b-cee6-4693-b4cd-a7e6cb25f4b7",
+      "godownName": "Pune",
+      "godownAddress": "Sammon Magnum Opus",
+      "godownCity": "Pune",
+      "godownCountry": "India",
+      "godownEmployee": {
+        "employeeName": "Devasish Yarra",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "employeeEmail": "devasish@gmail.com"
+      }
+    },
+    {
+      "id": "bb1491eb-30e6-4728-a5fa-72f89feaf622",
+      "godownName": "Bengaluru",
+      "godownAddress": "Marathahalli Outer Ring Road",
+      "godownCity": "Bengaluru",
+      "godownCountry": "India",
+      "godownEmployee": {
+        "employeeName": "Sanskar Jha",
+        "employeePosition": "Godown Manager",
+        "employeePhone": "+91 9234567890",
+        "employeeEmail": "sanskar@gmail.com"
+      }
+    }
+  ]
+}
